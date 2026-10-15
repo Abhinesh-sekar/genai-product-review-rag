@@ -1,0 +1,607 @@
+[
+  {
+    "product_id": "PROD_001",
+    "name": "AeroPulse ANC Wireless Headphones",
+    "category": "Audio",
+    "price": 249.99,
+    "aspect_summaries": [
+      "battery",
+      "comfort",
+      "anc",
+      "sound",
+      "mic"
+    ]
+  },
+  {
+    "product_id": "PROD_002",
+    "name": "ApexPro 16 Ultra Laptop",
+    "category": "Computers",
+    "price": 1499.99,
+    "aspect_summaries": [
+      "battery",
+      "display",
+      "keyboard",
+      "thermals",
+      "ports"
+    ]
+  },
+  {
+    "product_id": "PROD_003",
+    "name": "BaristaTouch Thermal Espresso Machine",
+    "category": "Appliances",
+    "price": 699.99,
+    "aspect_summaries": [
+      "steam",
+      "grinder",
+      "cleaning",
+      "heating",
+      "durability"
+    ]
+  },
+  {
+    "product_id": "PROD_004",
+    "name": "CloudStride Carbon Road Running Shoes",
+    "category": "Footwear",
+    "price": 179.99,
+    "aspect_summaries": [
+      "sizing",
+      "cushioning",
+      "durability",
+      "weight",
+      "stability"
+    ]
+  },
+  {
+    "product_id": "PROD_005",
+    "name": "ErgoFlow Lumbar Mesh Office Chair",
+    "category": "Office",
+    "price": 389.99,
+    "aspect_summaries": [
+      "lumbar",
+      "mesh",
+      "armrests",
+      "recline",
+      "assembly"
+    ]
+  },
+  {
+    "product_id": "PROD_006",
+    "name": "Veloce Earbuds Plus",
+    "category": "Smart Home",
+    "price": 250.6,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_007",
+    "name": "Veloce Camera Pro",
+    "category": "Computers",
+    "price": 547.81,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_008",
+    "name": "Quantum Monitor Max",
+    "category": "Audio",
+    "price": 240.08,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_009",
+    "name": "Quantum Camera Max",
+    "category": "Office",
+    "price": 655.77,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_010",
+    "name": "Core Standing Desk Max",
+    "category": "Smart Home",
+    "price": 426.31,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_011",
+    "name": "Quantum Smartwatch SE",
+    "category": "Appliances",
+    "price": 332.61,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_012",
+    "name": "Zenith Backpack Pro",
+    "category": "Computers",
+    "price": 119.75,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_013",
+    "name": "Hydro Backpack Elite",
+    "category": "Audio",
+    "price": 267.48,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_014",
+    "name": "Starlight Camera Pro",
+    "category": "Audio",
+    "price": 876.87,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_015",
+    "name": "Veloce Camera Plus",
+    "category": "Footwear",
+    "price": 753.28,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_016",
+    "name": "Hydro Drone Max",
+    "category": "Office",
+    "price": 645.92,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_017",
+    "name": "Zenith Air Purifier Pro",
+    "category": "Audio",
+    "price": 775.56,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_018",
+    "name": "Veloce Standing Desk Plus",
+    "category": "Fitness",
+    "price": 429.92,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_019",
+    "name": "Hydro Smartwatch Plus",
+    "category": "Fitness",
+    "price": 345.52,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_020",
+    "name": "Pulse Monitor Elite",
+    "category": "Smart Home",
+    "price": 586.07,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_021",
+    "name": "Zenith Smartwatch SE",
+    "category": "Office",
+    "price": 366.32,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_022",
+    "name": "Core Blender Plus",
+    "category": "Smart Home",
+    "price": 764.84,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_023",
+    "name": "Quantum Blender Pro",
+    "category": "Fitness",
+    "price": 732.33,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_024",
+    "name": "Pulse Monitor Max",
+    "category": "Footwear",
+    "price": 825.29,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_025",
+    "name": "Hydro Blender SE",
+    "category": "Office",
+    "price": 380.23,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_026",
+    "name": "Starlight Smartwatch Plus",
+    "category": "Smart Home",
+    "price": 160.07,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_027",
+    "name": "Core Camera Plus",
+    "category": "Smart Home",
+    "price": 682.42,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_028",
+    "name": "Swift Standing Desk Plus",
+    "category": "Footwear",
+    "price": 228.61,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_029",
+    "name": "Core Mechanical Keyboard Pro",
+    "category": "Computers",
+    "price": 689.96,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_030",
+    "name": "Veloce Smartwatch Max",
+    "category": "Fitness",
+    "price": 721.18,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_031",
+    "name": "Swift Monitor SE",
+    "category": "Footwear",
+    "price": 368.18,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_032",
+    "name": "Core Air Purifier Elite",
+    "category": "Footwear",
+    "price": 780.26,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_033",
+    "name": "Veloce Camera Plus",
+    "category": "Audio",
+    "price": 700.98,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_034",
+    "name": "Veloce Air Purifier SE",
+    "category": "Appliances",
+    "price": 176.01,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_035",
+    "name": "Pulse Camera Max",
+    "category": "Audio",
+    "price": 476.6,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_036",
+    "name": "Pulse Camera Elite",
+    "category": "Audio",
+    "price": 211.05,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_037",
+    "name": "Titan Camera Elite",
+    "category": "Appliances",
+    "price": 829.89,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_038",
+    "name": "Hydro Mechanical Keyboard Pro",
+    "category": "Office",
+    "price": 136.2,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_039",
+    "name": "Pulse Blender Pro",
+    "category": "Appliances",
+    "price": 247.14,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_040",
+    "name": "Veloce Monitor SE",
+    "category": "Office",
+    "price": 741.77,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_041",
+    "name": "Core Smartwatch Max",
+    "category": "Fitness",
+    "price": 607.38,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_042",
+    "name": "Titan Air Purifier Elite",
+    "category": "Office",
+    "price": 790.28,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_043",
+    "name": "Zenith Camera Max",
+    "category": "Footwear",
+    "price": 653.13,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_044",
+    "name": "Hydro Mechanical Keyboard Elite",
+    "category": "Footwear",
+    "price": 428.27,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_045",
+    "name": "Zenith Monitor Plus",
+    "category": "Computers",
+    "price": 58.08,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_046",
+    "name": "Zenith Drone Max",
+    "category": "Office",
+    "price": 46.17,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_047",
+    "name": "Quantum Blender Pro",
+    "category": "Smart Home",
+    "price": 818.65,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_048",
+    "name": "Hydro Monitor Elite",
+    "category": "Fitness",
+    "price": 244.67,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_049",
+    "name": "Starlight Blender Elite",
+    "category": "Smart Home",
+    "price": 153.78,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  },
+  {
+    "product_id": "PROD_050",
+    "name": "Swift Mechanical Keyboard Max",
+    "category": "Office",
+    "price": 714.76,
+    "aspect_summaries": [
+      "performance",
+      "battery",
+      "build",
+      "value"
+    ]
+  }
+]

@@ -1,0 +1,1494 @@
+[
+  {
+    "query_id": "EVAL_001",
+    "product_id": "PROD_001",
+    "product_name": "AeroPulse ANC Wireless Headphones",
+    "aspect": "battery",
+    "query": "How long does the battery last on the AeroPulse ANC Wireless Headphones during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1001",
+      "REV_1003",
+      "REV_1004",
+      "REV_1006",
+      "REV_1007"
+    ],
+    "reference_answer": "The battery consistently delivers 34 hours of playback with ANC active. Flew from NYC to Tokyo and still had 40% left."
+  },
+  {
+    "query_id": "EVAL_002",
+    "product_id": "PROD_001",
+    "product_name": "AeroPulse ANC Wireless Headphones",
+    "aspect": "comfort",
+    "query": "Is the AeroPulse ANC Wireless Headphones comfortable for long sessions or wearing all day?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1001",
+      "REV_1004",
+      "REV_1005",
+      "REV_1006",
+      "REV_1009"
+    ],
+    "reference_answer": "The memory foam ear cushions are lightweight and breathable, no pressure on ears even after 8 hours of continuous work."
+  },
+  {
+    "query_id": "EVAL_003",
+    "product_id": "PROD_002",
+    "product_name": "ApexPro 16 Ultra Laptop",
+    "aspect": "battery",
+    "query": "How long does the battery last on the ApexPro 16 Ultra Laptop during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1038",
+      "REV_1043",
+      "REV_1060"
+    ],
+    "reference_answer": "Battery runtime under code compilation and Docker containers is around 9.5 hours; fast charges to 80% in 45 minutes."
+  },
+  {
+    "query_id": "EVAL_004",
+    "product_id": "PROD_002",
+    "product_name": "ApexPro 16 Ultra Laptop",
+    "aspect": "display",
+    "query": "How bright and color-accurate is the screen on ApexPro 16 Ultra Laptop?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1032",
+      "REV_1040",
+      "REV_1045",
+      "REV_1047",
+      "REV_1049"
+    ],
+    "reference_answer": "The 16-inch 120Hz Mini-LED display reaches 1000 nits peak brightness with accurate DCI-P3 color coverage."
+  },
+  {
+    "query_id": "EVAL_005",
+    "product_id": "PROD_003",
+    "product_name": "BaristaTouch Thermal Espresso Machine",
+    "aspect": "steam",
+    "query": "How fast does the BaristaTouch Thermal Espresso Machine steam milk and heat up?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1069",
+      "REV_1076",
+      "REV_1078"
+    ],
+    "reference_answer": "The dual boiler allows simultaneous espresso extraction and powerful microfoam steaming in under 45 seconds."
+  },
+  {
+    "query_id": "EVAL_006",
+    "product_id": "PROD_003",
+    "product_name": "BaristaTouch Thermal Espresso Machine",
+    "aspect": "grinder",
+    "query": "What do customers say about the grinder of BaristaTouch Thermal Espresso Machine?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1064",
+      "REV_1065",
+      "REV_1071",
+      "REV_1072",
+      "REV_1075"
+    ],
+    "reference_answer": "Integrated conical burr grinder has 30 precise grind settings; single-dosing bellows prevents retention."
+  },
+  {
+    "query_id": "EVAL_007",
+    "product_id": "PROD_004",
+    "product_name": "CloudStride Carbon Road Running Shoes",
+    "aspect": "sizing",
+    "query": "Does the CloudStride Carbon Road Running Shoes fit true to size or should I size up?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1096",
+      "REV_1100",
+      "REV_1102",
+      "REV_1110",
+      "REV_1111"
+    ],
+    "reference_answer": "Runs slightly snug in the toe box. Runners with wider feet should order a half-size up for marathon distances."
+  },
+  {
+    "query_id": "EVAL_008",
+    "product_id": "PROD_004",
+    "product_name": "CloudStride Carbon Road Running Shoes",
+    "aspect": "cushioning",
+    "query": "What do customers say about the cushioning of CloudStride Carbon Road Running Shoes?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1092",
+      "REV_1094",
+      "REV_1097",
+      "REV_1103",
+      "REV_1104"
+    ],
+    "reference_answer": "Supercritical PEBA midsole foam combined with curved carbon-fiber plate delivers responsive energy rebound."
+  },
+  {
+    "query_id": "EVAL_009",
+    "product_id": "PROD_005",
+    "product_name": "ErgoFlow Lumbar Mesh Office Chair",
+    "aspect": "lumbar",
+    "query": "Does the ErgoFlow Lumbar Mesh Office Chair provide good lower back and lumbar support?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1124",
+      "REV_1125",
+      "REV_1143",
+      "REV_1146",
+      "REV_1149"
+    ],
+    "reference_answer": "Self-adjusting dynamic lumbar support tracks posture shifts automatically, relieving lower back tightness."
+  },
+  {
+    "query_id": "EVAL_010",
+    "product_id": "PROD_005",
+    "product_name": "ErgoFlow Lumbar Mesh Office Chair",
+    "aspect": "mesh",
+    "query": "What do customers say about the mesh of ErgoFlow Lumbar Mesh Office Chair?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1126",
+      "REV_1132",
+      "REV_1133",
+      "REV_1145",
+      "REV_1146"
+    ],
+    "reference_answer": "Breathable Korean elastomeric mesh prevents heat accumulation during humid summer workdays."
+  },
+  {
+    "query_id": "EVAL_011",
+    "product_id": "PROD_006",
+    "product_name": "Veloce Earbuds Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Veloce Earbuds Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1158",
+      "REV_1161",
+      "REV_1167",
+      "REV_1172",
+      "REV_1173"
+    ],
+    "reference_answer": "Delivers exceptional smart home performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_012",
+    "product_id": "PROD_006",
+    "product_name": "Veloce Earbuds Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Veloce Earbuds Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1152",
+      "REV_1153",
+      "REV_1157",
+      "REV_1159",
+      "REV_1160"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_013",
+    "product_id": "PROD_007",
+    "product_name": "Veloce Camera Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Veloce Camera Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1186",
+      "REV_1197",
+      "REV_1203",
+      "REV_1205",
+      "REV_1206"
+    ],
+    "reference_answer": "Delivers exceptional computers performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_014",
+    "product_id": "PROD_007",
+    "product_name": "Veloce Camera Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Veloce Camera Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1185",
+      "REV_1189",
+      "REV_1191",
+      "REV_1208",
+      "REV_1209"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_015",
+    "product_id": "PROD_008",
+    "product_name": "Quantum Monitor Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Quantum Monitor Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1219",
+      "REV_1223",
+      "REV_1228",
+      "REV_1232",
+      "REV_1239"
+    ],
+    "reference_answer": "Delivers exceptional audio performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_016",
+    "product_id": "PROD_008",
+    "product_name": "Quantum Monitor Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Quantum Monitor Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1211",
+      "REV_1212",
+      "REV_1216",
+      "REV_1217",
+      "REV_1221"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_017",
+    "product_id": "PROD_009",
+    "product_name": "Quantum Camera Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Quantum Camera Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1247",
+      "REV_1251",
+      "REV_1256",
+      "REV_1259",
+      "REV_1260"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_018",
+    "product_id": "PROD_009",
+    "product_name": "Quantum Camera Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Quantum Camera Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1244",
+      "REV_1252",
+      "REV_1255",
+      "REV_1261",
+      "REV_1269"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_019",
+    "product_id": "PROD_010",
+    "product_name": "Core Standing Desk Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Core Standing Desk Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1277",
+      "REV_1278",
+      "REV_1279",
+      "REV_1282",
+      "REV_1283"
+    ],
+    "reference_answer": "Delivers exceptional smart home performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_020",
+    "product_id": "PROD_010",
+    "product_name": "Core Standing Desk Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Core Standing Desk Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1276",
+      "REV_1277",
+      "REV_1278",
+      "REV_1282",
+      "REV_1285"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_021",
+    "product_id": "PROD_011",
+    "product_name": "Quantum Smartwatch SE",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Quantum Smartwatch SE?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1305",
+      "REV_1307",
+      "REV_1309",
+      "REV_1312",
+      "REV_1316"
+    ],
+    "reference_answer": "Delivers exceptional appliances performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_022",
+    "product_id": "PROD_011",
+    "product_name": "Quantum Smartwatch SE",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Quantum Smartwatch SE during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1303",
+      "REV_1307",
+      "REV_1308",
+      "REV_1311",
+      "REV_1312"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_023",
+    "product_id": "PROD_012",
+    "product_name": "Zenith Backpack Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Zenith Backpack Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1339",
+      "REV_1340",
+      "REV_1341",
+      "REV_1349",
+      "REV_1358"
+    ],
+    "reference_answer": "Delivers exceptional computers performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_024",
+    "product_id": "PROD_012",
+    "product_name": "Zenith Backpack Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Zenith Backpack Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1333",
+      "REV_1335",
+      "REV_1339",
+      "REV_1343",
+      "REV_1346"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_025",
+    "product_id": "PROD_013",
+    "product_name": "Hydro Backpack Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Hydro Backpack Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1362",
+      "REV_1364",
+      "REV_1366",
+      "REV_1371",
+      "REV_1374"
+    ],
+    "reference_answer": "Delivers exceptional audio performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_026",
+    "product_id": "PROD_013",
+    "product_name": "Hydro Backpack Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Hydro Backpack Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1361",
+      "REV_1363",
+      "REV_1364",
+      "REV_1370",
+      "REV_1374"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_027",
+    "product_id": "PROD_014",
+    "product_name": "Starlight Camera Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Starlight Camera Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1395",
+      "REV_1398",
+      "REV_1403",
+      "REV_1407",
+      "REV_1411"
+    ],
+    "reference_answer": "Delivers exceptional audio performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_028",
+    "product_id": "PROD_014",
+    "product_name": "Starlight Camera Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Starlight Camera Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1399",
+      "REV_1400",
+      "REV_1401",
+      "REV_1403",
+      "REV_1407"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_029",
+    "product_id": "PROD_015",
+    "product_name": "Veloce Camera Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Veloce Camera Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1422",
+      "REV_1423",
+      "REV_1425",
+      "REV_1429",
+      "REV_1435"
+    ],
+    "reference_answer": "Delivers exceptional footwear performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_030",
+    "product_id": "PROD_015",
+    "product_name": "Veloce Camera Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Veloce Camera Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1421",
+      "REV_1423",
+      "REV_1425",
+      "REV_1426",
+      "REV_1427"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_031",
+    "product_id": "PROD_016",
+    "product_name": "Hydro Drone Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Hydro Drone Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1451",
+      "REV_1452",
+      "REV_1456",
+      "REV_1457",
+      "REV_1466"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_032",
+    "product_id": "PROD_016",
+    "product_name": "Hydro Drone Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Hydro Drone Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1455",
+      "REV_1456",
+      "REV_1460",
+      "REV_1462",
+      "REV_1469"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_033",
+    "product_id": "PROD_017",
+    "product_name": "Zenith Air Purifier Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Zenith Air Purifier Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1484",
+      "REV_1485",
+      "REV_1495",
+      "REV_1496",
+      "REV_1497"
+    ],
+    "reference_answer": "Delivers exceptional audio performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_034",
+    "product_id": "PROD_017",
+    "product_name": "Zenith Air Purifier Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Zenith Air Purifier Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1481",
+      "REV_1487",
+      "REV_1492",
+      "REV_1493",
+      "REV_1494"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_035",
+    "product_id": "PROD_018",
+    "product_name": "Veloce Standing Desk Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Veloce Standing Desk Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1511",
+      "REV_1512",
+      "REV_1516",
+      "REV_1520",
+      "REV_1521"
+    ],
+    "reference_answer": "Delivers exceptional fitness performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_036",
+    "product_id": "PROD_018",
+    "product_name": "Veloce Standing Desk Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Veloce Standing Desk Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1516",
+      "REV_1529"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_037",
+    "product_id": "PROD_019",
+    "product_name": "Hydro Smartwatch Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Hydro Smartwatch Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1542",
+      "REV_1548",
+      "REV_1551",
+      "REV_1557",
+      "REV_1559"
+    ],
+    "reference_answer": "Delivers exceptional fitness performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_038",
+    "product_id": "PROD_019",
+    "product_name": "Hydro Smartwatch Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Hydro Smartwatch Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1543",
+      "REV_1544",
+      "REV_1545",
+      "REV_1547",
+      "REV_1551"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_039",
+    "product_id": "PROD_020",
+    "product_name": "Pulse Monitor Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Pulse Monitor Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1573",
+      "REV_1574",
+      "REV_1577",
+      "REV_1579",
+      "REV_1580"
+    ],
+    "reference_answer": "Delivers exceptional smart home performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_040",
+    "product_id": "PROD_020",
+    "product_name": "Pulse Monitor Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Pulse Monitor Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1572",
+      "REV_1574",
+      "REV_1584",
+      "REV_1585",
+      "REV_1586"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_041",
+    "product_id": "PROD_021",
+    "product_name": "Zenith Smartwatch SE",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Zenith Smartwatch SE?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1601",
+      "REV_1602",
+      "REV_1603",
+      "REV_1604",
+      "REV_1605"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_042",
+    "product_id": "PROD_021",
+    "product_name": "Zenith Smartwatch SE",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Zenith Smartwatch SE during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1601",
+      "REV_1610",
+      "REV_1611",
+      "REV_1618",
+      "REV_1620"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_043",
+    "product_id": "PROD_022",
+    "product_name": "Core Blender Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Core Blender Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1638",
+      "REV_1639",
+      "REV_1645",
+      "REV_1649",
+      "REV_1650"
+    ],
+    "reference_answer": "Delivers exceptional smart home performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_044",
+    "product_id": "PROD_022",
+    "product_name": "Core Blender Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Core Blender Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1638",
+      "REV_1640",
+      "REV_1641",
+      "REV_1644",
+      "REV_1645"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_045",
+    "product_id": "PROD_023",
+    "product_name": "Quantum Blender Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Quantum Blender Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1661",
+      "REV_1663",
+      "REV_1665",
+      "REV_1669",
+      "REV_1673"
+    ],
+    "reference_answer": "Delivers exceptional fitness performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_046",
+    "product_id": "PROD_023",
+    "product_name": "Quantum Blender Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Quantum Blender Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1661",
+      "REV_1663",
+      "REV_1664",
+      "REV_1666",
+      "REV_1670"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_047",
+    "product_id": "PROD_024",
+    "product_name": "Pulse Monitor Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Pulse Monitor Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1691",
+      "REV_1695",
+      "REV_1698",
+      "REV_1699",
+      "REV_1703"
+    ],
+    "reference_answer": "Delivers exceptional footwear performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_048",
+    "product_id": "PROD_024",
+    "product_name": "Pulse Monitor Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Pulse Monitor Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1691",
+      "REV_1692",
+      "REV_1693",
+      "REV_1697",
+      "REV_1700"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_049",
+    "product_id": "PROD_025",
+    "product_name": "Hydro Blender SE",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Hydro Blender SE?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1722",
+      "REV_1728",
+      "REV_1730",
+      "REV_1733",
+      "REV_1741"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_050",
+    "product_id": "PROD_025",
+    "product_name": "Hydro Blender SE",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Hydro Blender SE during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1723",
+      "REV_1724",
+      "REV_1725",
+      "REV_1727",
+      "REV_1729"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_051",
+    "product_id": "PROD_026",
+    "product_name": "Starlight Smartwatch Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Starlight Smartwatch Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1753",
+      "REV_1755",
+      "REV_1758",
+      "REV_1762",
+      "REV_1766"
+    ],
+    "reference_answer": "Delivers exceptional smart home performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_052",
+    "product_id": "PROD_026",
+    "product_name": "Starlight Smartwatch Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Starlight Smartwatch Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1754",
+      "REV_1761",
+      "REV_1762",
+      "REV_1763",
+      "REV_1764"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_053",
+    "product_id": "PROD_027",
+    "product_name": "Core Camera Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Core Camera Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1782",
+      "REV_1783",
+      "REV_1784",
+      "REV_1788",
+      "REV_1789"
+    ],
+    "reference_answer": "Delivers exceptional smart home performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_054",
+    "product_id": "PROD_027",
+    "product_name": "Core Camera Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Core Camera Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1781",
+      "REV_1784",
+      "REV_1798",
+      "REV_1806"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_055",
+    "product_id": "PROD_028",
+    "product_name": "Swift Standing Desk Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Swift Standing Desk Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1813",
+      "REV_1816",
+      "REV_1817",
+      "REV_1818",
+      "REV_1823"
+    ],
+    "reference_answer": "Delivers exceptional footwear performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_056",
+    "product_id": "PROD_028",
+    "product_name": "Swift Standing Desk Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Swift Standing Desk Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1820",
+      "REV_1822",
+      "REV_1823",
+      "REV_1824",
+      "REV_1825"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_057",
+    "product_id": "PROD_029",
+    "product_name": "Core Mechanical Keyboard Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Core Mechanical Keyboard Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1843",
+      "REV_1846",
+      "REV_1852",
+      "REV_1853",
+      "REV_1856"
+    ],
+    "reference_answer": "Delivers exceptional computers performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_058",
+    "product_id": "PROD_029",
+    "product_name": "Core Mechanical Keyboard Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Core Mechanical Keyboard Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1841",
+      "REV_1846",
+      "REV_1850",
+      "REV_1852",
+      "REV_1853"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_059",
+    "product_id": "PROD_030",
+    "product_name": "Veloce Smartwatch Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Veloce Smartwatch Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1872",
+      "REV_1876",
+      "REV_1879",
+      "REV_1881",
+      "REV_1882"
+    ],
+    "reference_answer": "Delivers exceptional fitness performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_060",
+    "product_id": "PROD_030",
+    "product_name": "Veloce Smartwatch Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Veloce Smartwatch Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1873",
+      "REV_1875",
+      "REV_1878",
+      "REV_1880",
+      "REV_1881"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_061",
+    "product_id": "PROD_031",
+    "product_name": "Swift Monitor SE",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Swift Monitor SE?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1902",
+      "REV_1909",
+      "REV_1911",
+      "REV_1912",
+      "REV_1924"
+    ],
+    "reference_answer": "Delivers exceptional footwear performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_062",
+    "product_id": "PROD_031",
+    "product_name": "Swift Monitor SE",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Swift Monitor SE during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1903",
+      "REV_1904",
+      "REV_1905",
+      "REV_1908",
+      "REV_1909"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_063",
+    "product_id": "PROD_032",
+    "product_name": "Core Air Purifier Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Core Air Purifier Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1936",
+      "REV_1937",
+      "REV_1940",
+      "REV_1941",
+      "REV_1950"
+    ],
+    "reference_answer": "Delivers exceptional footwear performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_064",
+    "product_id": "PROD_032",
+    "product_name": "Core Air Purifier Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Core Air Purifier Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1934",
+      "REV_1935",
+      "REV_1937",
+      "REV_1939",
+      "REV_1941"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_065",
+    "product_id": "PROD_033",
+    "product_name": "Veloce Camera Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Veloce Camera Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1961",
+      "REV_1963",
+      "REV_1965",
+      "REV_1970",
+      "REV_1971"
+    ],
+    "reference_answer": "Delivers exceptional audio performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_066",
+    "product_id": "PROD_033",
+    "product_name": "Veloce Camera Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Veloce Camera Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1961",
+      "REV_1967",
+      "REV_1968",
+      "REV_1974",
+      "REV_1975"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_067",
+    "product_id": "PROD_034",
+    "product_name": "Veloce Air Purifier SE",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Veloce Air Purifier SE?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1993",
+      "REV_1994",
+      "REV_1995",
+      "REV_1996",
+      "REV_2004"
+    ],
+    "reference_answer": "Delivers exceptional appliances performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_068",
+    "product_id": "PROD_034",
+    "product_name": "Veloce Air Purifier SE",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Veloce Air Purifier SE during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_1991",
+      "REV_1992",
+      "REV_1998",
+      "REV_2002",
+      "REV_2006"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_069",
+    "product_id": "PROD_035",
+    "product_name": "Pulse Camera Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Pulse Camera Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2026",
+      "REV_2029",
+      "REV_2031",
+      "REV_2033",
+      "REV_2034"
+    ],
+    "reference_answer": "Delivers exceptional audio performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_070",
+    "product_id": "PROD_035",
+    "product_name": "Pulse Camera Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Pulse Camera Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2021",
+      "REV_2033",
+      "REV_2036",
+      "REV_2038",
+      "REV_2041"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_071",
+    "product_id": "PROD_036",
+    "product_name": "Pulse Camera Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Pulse Camera Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2054",
+      "REV_2059",
+      "REV_2063",
+      "REV_2067",
+      "REV_2068"
+    ],
+    "reference_answer": "Delivers exceptional audio performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_072",
+    "product_id": "PROD_036",
+    "product_name": "Pulse Camera Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Pulse Camera Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2052",
+      "REV_2056",
+      "REV_2058",
+      "REV_2066",
+      "REV_2071"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_073",
+    "product_id": "PROD_037",
+    "product_name": "Titan Camera Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Titan Camera Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2081",
+      "REV_2086",
+      "REV_2090",
+      "REV_2097",
+      "REV_2099"
+    ],
+    "reference_answer": "Delivers exceptional appliances performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_074",
+    "product_id": "PROD_037",
+    "product_name": "Titan Camera Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Titan Camera Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2081",
+      "REV_2087",
+      "REV_2090",
+      "REV_2092",
+      "REV_2093"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_075",
+    "product_id": "PROD_038",
+    "product_name": "Hydro Mechanical Keyboard Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Hydro Mechanical Keyboard Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2114",
+      "REV_2119",
+      "REV_2120",
+      "REV_2129",
+      "REV_2134"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_076",
+    "product_id": "PROD_038",
+    "product_name": "Hydro Mechanical Keyboard Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Hydro Mechanical Keyboard Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2116",
+      "REV_2117",
+      "REV_2119",
+      "REV_2125",
+      "REV_2126"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_077",
+    "product_id": "PROD_039",
+    "product_name": "Pulse Blender Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Pulse Blender Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2143",
+      "REV_2144",
+      "REV_2145",
+      "REV_2147",
+      "REV_2155"
+    ],
+    "reference_answer": "Delivers exceptional appliances performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_078",
+    "product_id": "PROD_039",
+    "product_name": "Pulse Blender Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Pulse Blender Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2143",
+      "REV_2151",
+      "REV_2153",
+      "REV_2157",
+      "REV_2163"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_079",
+    "product_id": "PROD_040",
+    "product_name": "Veloce Monitor SE",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Veloce Monitor SE?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2171",
+      "REV_2175",
+      "REV_2176",
+      "REV_2180",
+      "REV_2191"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_080",
+    "product_id": "PROD_040",
+    "product_name": "Veloce Monitor SE",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Veloce Monitor SE during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2177",
+      "REV_2180",
+      "REV_2183",
+      "REV_2185",
+      "REV_2188"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_081",
+    "product_id": "PROD_041",
+    "product_name": "Core Smartwatch Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Core Smartwatch Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2201",
+      "REV_2206",
+      "REV_2207",
+      "REV_2214",
+      "REV_2217"
+    ],
+    "reference_answer": "Delivers exceptional fitness performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_082",
+    "product_id": "PROD_041",
+    "product_name": "Core Smartwatch Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Core Smartwatch Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2201",
+      "REV_2202",
+      "REV_2205",
+      "REV_2209",
+      "REV_2212"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_083",
+    "product_id": "PROD_042",
+    "product_name": "Titan Air Purifier Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Titan Air Purifier Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2232",
+      "REV_2233",
+      "REV_2234",
+      "REV_2236",
+      "REV_2238"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_084",
+    "product_id": "PROD_042",
+    "product_name": "Titan Air Purifier Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Titan Air Purifier Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2240",
+      "REV_2242",
+      "REV_2247",
+      "REV_2251",
+      "REV_2254"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_085",
+    "product_id": "PROD_043",
+    "product_name": "Zenith Camera Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Zenith Camera Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2262",
+      "REV_2263",
+      "REV_2264",
+      "REV_2266",
+      "REV_2271"
+    ],
+    "reference_answer": "Delivers exceptional footwear performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_086",
+    "product_id": "PROD_043",
+    "product_name": "Zenith Camera Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Zenith Camera Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2261",
+      "REV_2262",
+      "REV_2268",
+      "REV_2270",
+      "REV_2273"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_087",
+    "product_id": "PROD_044",
+    "product_name": "Hydro Mechanical Keyboard Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Hydro Mechanical Keyboard Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2291",
+      "REV_2296",
+      "REV_2298",
+      "REV_2299",
+      "REV_2301"
+    ],
+    "reference_answer": "Delivers exceptional footwear performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_088",
+    "product_id": "PROD_044",
+    "product_name": "Hydro Mechanical Keyboard Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Hydro Mechanical Keyboard Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2292",
+      "REV_2293",
+      "REV_2297",
+      "REV_2301",
+      "REV_2311"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_089",
+    "product_id": "PROD_045",
+    "product_name": "Zenith Monitor Plus",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Zenith Monitor Plus?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2321",
+      "REV_2322",
+      "REV_2324",
+      "REV_2327",
+      "REV_2328"
+    ],
+    "reference_answer": "Delivers exceptional computers performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_090",
+    "product_id": "PROD_045",
+    "product_name": "Zenith Monitor Plus",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Zenith Monitor Plus during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2322",
+      "REV_2324",
+      "REV_2326",
+      "REV_2329",
+      "REV_2332"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_091",
+    "product_id": "PROD_046",
+    "product_name": "Zenith Drone Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Zenith Drone Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2353",
+      "REV_2359",
+      "REV_2363",
+      "REV_2364",
+      "REV_2370"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_092",
+    "product_id": "PROD_046",
+    "product_name": "Zenith Drone Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Zenith Drone Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2352",
+      "REV_2365",
+      "REV_2367",
+      "REV_2369",
+      "REV_2374"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_093",
+    "product_id": "PROD_047",
+    "product_name": "Quantum Blender Pro",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Quantum Blender Pro?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2385",
+      "REV_2386",
+      "REV_2390",
+      "REV_2391",
+      "REV_2392"
+    ],
+    "reference_answer": "Delivers exceptional smart home performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_094",
+    "product_id": "PROD_047",
+    "product_name": "Quantum Blender Pro",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Quantum Blender Pro during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2381",
+      "REV_2382",
+      "REV_2384",
+      "REV_2385",
+      "REV_2387"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_095",
+    "product_id": "PROD_048",
+    "product_name": "Hydro Monitor Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Hydro Monitor Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2411",
+      "REV_2412",
+      "REV_2421",
+      "REV_2424",
+      "REV_2427"
+    ],
+    "reference_answer": "Delivers exceptional fitness performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_096",
+    "product_id": "PROD_048",
+    "product_name": "Hydro Monitor Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Hydro Monitor Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2414",
+      "REV_2415",
+      "REV_2417",
+      "REV_2418",
+      "REV_2421"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_097",
+    "product_id": "PROD_049",
+    "product_name": "Starlight Blender Elite",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Starlight Blender Elite?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2443",
+      "REV_2444",
+      "REV_2446",
+      "REV_2452",
+      "REV_2454"
+    ],
+    "reference_answer": "Delivers exceptional smart home performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_098",
+    "product_id": "PROD_049",
+    "product_name": "Starlight Blender Elite",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Starlight Blender Elite during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2442",
+      "REV_2451",
+      "REV_2455",
+      "REV_2458",
+      "REV_2459"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  },
+  {
+    "query_id": "EVAL_099",
+    "product_id": "PROD_050",
+    "product_name": "Swift Mechanical Keyboard Max",
+    "aspect": "performance",
+    "query": "What is the overall performance and reliability of Swift Mechanical Keyboard Max?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2471",
+      "REV_2474",
+      "REV_2475",
+      "REV_2478",
+      "REV_2479"
+    ],
+    "reference_answer": "Delivers exceptional office performance with high reliability and intuitive controls."
+  },
+  {
+    "query_id": "EVAL_100",
+    "product_id": "PROD_050",
+    "product_name": "Swift Mechanical Keyboard Max",
+    "aspect": "battery",
+    "query": "How long does the battery last on the Swift Mechanical Keyboard Max during heavy travel or work?",
+    "ground_truth_relevant_review_ids": [
+      "REV_2474",
+      "REV_2476",
+      "REV_2478",
+      "REV_2482",
+      "REV_2484"
+    ],
+    "reference_answer": "Efficient power management provides extended usage with fast recharging via USB-C."
+  }
+]
