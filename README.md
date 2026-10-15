@@ -128,11 +128,5 @@ streamlit run ui/streamlit_app.py
 
 ---
 
-## 📄 LaTeX Resume Entry
-
-```latex
-\entry{GenAI Product \& Review Assistant (RAG)}{Python, LLMs, FAISS, FastAPI, Streamlit}{2025 -- 2026}{
-  \item End-to-end pipeline to ingest, clean and chunk unstructured documents; embedding retrieval with LLM answers grounded in source text.
-  \item Designed evaluation for retrieval relevance and answer faithfulness (Hit@5 89\%, 100\% faithfulness); built FastAPI microservice and Streamlit UI. \href{https://github.com/Abhinesh-sekar/genai-product-review-rag}{[Code]}
 }
 ```
